@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-h15nd1.wafflecheltenham.co.uk/sitemap.xml
